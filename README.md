@@ -84,7 +84,6 @@ MiniStore/
 ## 🚀 How to Run Locally
 
 ### 1️⃣ Clone the repository
-
 ```bash
 git clone https://github.com/Darshit-Mehta-11/ministore.git
 
